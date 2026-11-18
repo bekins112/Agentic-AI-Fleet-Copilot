@@ -1,0 +1,25 @@
+                  ┌────────────────────────┐
+                  │   Natural Language     │
+                  │      User Query        │
+                  └───────────┬────────────┘
+                              │
+                              ▼
+                  ┌────────────────────────┐
+                  │   Tenant Guardrail     │ <─── Verifies caller is isolated
+                  │  (Context Identifier)  │      to authorized company_id
+                  └───────────┬────────────┘
+                              │
+                              ▼
+                  ┌────────────────────────┐
+                  │    Agent Loop / Plan   │ <─── Decides if time-series history
+                  │                        │      or latest snapshot is needed
+                  └───────────┬────────────┘
+                              │
+               ┌──────────────┴──────────────┐
+               ▼                             ▼
+    ┌────────────────────┐        ┌────────────────────┐
+    │     Read Tools     │        │    Action Tools    │
+    │ ────────────────── │        │ ────────────────── │
+    │ - query_fleet      │        │ - create_upgrade   │ <─── Verifies evidence
+    │ - get_device_hist  │        │ - open_ticket      │      before state-change
+    └────────────────────┘        └────────────────────┘

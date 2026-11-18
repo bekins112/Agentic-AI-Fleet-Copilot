@@ -1,0 +1,19 @@
+employee_id,name,email,company_id
+EMP-001,Employee 1,emp1@acmecorp.com,Acme Corp
+EMP-002,Employee 2,emp2@acmecorp.com,Acme Corp
+EMP-003,Employee 3,emp3@acmecorp.com,Acme Corp
+EMP-004,Employee 4,emp4@acmecorp.com,Acme Corp
+EMP-005,Employee 5,emp5@acmecorp.com,Acme Corp
+EMP-006,Employee 6,emp6@acmecorp.com,Acme Corp
+EMP-007,Employee 7,emp7@acmecorp.com,Acme Corp
+EMP-008,Employee 8,emp8@globex.com,Globex
+EMP-009,Employee 9,emp9@globex.com,Globex
+EMP-010,Employee 10,emp10@globex.com,Globex
+EMP-011,Employee 11,emp11@globex.com,Globex
+EMP-012,Employee 12,emp12@globex.com,Globex
+EMP-013,Employee 13,emp13@globex.com,Globex
+EMP-014,Employee 14,emp14@initech.com,Initech
+EMP-015,Employee 15,emp15@initech.com,Initech
+EMP-016,Employee 16,emp16@initech.com,Initech
+EMP-017,Employee 17,emp17@initech.com,Initech
+EMP-018,Employee 18,emp18@initech.com,Initech

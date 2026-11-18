@@ -1,0 +1,26 @@
+device_id,employee_id,company_id,model,os_name,os_version,ram_total_gb,disk_total_gb
+DEV-001,EMP-007,Acme Corp,Dell XPS 13,Windows,11,16,512
+DEV-002,EMP-007,Acme Corp,Dell XPS 13,macOS,15.0,8,512
+DEV-003,EMP-004,Acme Corp,Dell XPS 13,macOS,14.5,8,1024
+DEV-004,EMP-004,Acme Corp,MacBook Air M2,macOS,13.6,8,256
+DEV-005,EMP-004,Acme Corp,MacBook Pro M3,macOS,15.0,16,256
+DEV-006,EMP-003,Acme Corp,Lenovo ThinkPad X1,macOS,14.5,8,256
+DEV-007,EMP-006,Acme Corp,MacBook Air M2,macOS,14.5,8,512
+DEV-008,EMP-001,Acme Corp,Dell XPS 13,macOS,14.5,16,256
+DEV-009,EMP-002,Acme Corp,Lenovo ThinkPad X1,macOS,13.6,16,256
+DEV-010,EMP-002,Acme Corp,Lenovo ThinkPad X1,macOS,14.5,8,512
+DEV-011,EMP-011,Globex,Dell XPS 13,macOS,15.0,8,256
+DEV-012,EMP-009,Globex,MacBook Air M2,macOS,15.0,16,256
+DEV-013,EMP-011,Globex,Dell XPS 13,macOS,14.5,16,256
+DEV-014,EMP-009,Globex,MacBook Air M2,Windows,11,16,256
+DEV-015,EMP-013,Globex,MacBook Pro M3,macOS,14.5,32,512
+DEV-016,EMP-012,Globex,MacBook Pro M3,macOS,14.5,16,1024
+DEV-017,EMP-011,Globex,MacBook Pro M3,macOS,15.0,8,256
+DEV-018,EMP-008,Globex,Lenovo ThinkPad X1,macOS,13.6,8,256
+DEV-019,EMP-016,Initech,Lenovo ThinkPad X1,macOS,14.5,16,512
+DEV-020,EMP-018,Initech,MacBook Air M2,macOS,13.6,8,512
+DEV-021,EMP-017,Initech,Lenovo ThinkPad X1,macOS,14.5,8,512
+DEV-022,EMP-018,Initech,Lenovo ThinkPad X1,Windows,11,8,512
+DEV-023,EMP-016,Initech,MacBook Air M2,macOS,14.5,16,512
+DEV-024,EMP-016,Initech,Dell XPS 13,macOS,15.0,8,256
+DEV-025,EMP-016,Initech,Dell XPS 13,macOS,14.5,16,512
